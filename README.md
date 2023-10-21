@@ -1,13 +1,13 @@
-# ✌️🔗🧭 hasura-from-domains
+# hasura-from-domains
 
-A TypeScript tool to write domain elements to hasura.
+A NodeJS tool to import domain migrations and metadata to hasura.
 
 ## Table of Content
 
--   [✌️🔗🧭 hasura-from-domains](#️-hasura-from-domains)
-    -   [Table of Content](#table-of-content)
-    -   [Installation](#installation)
-    -   [Usage](#usage)
+- [hasura-from-domains](#hasura-from-domains)
+  - [Table of Content](#table-of-content)
+  - [Installation](#installation)
+  - [Usage](#usage)
 
 ## Installation
 
